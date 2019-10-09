@@ -8,7 +8,17 @@
 
 
 
-![下载](https://raw.githubusercontent.com/manondidi/challenge_shop/master/%E4%B8%8B%E8%BD%BD.png)
+![下载](%E4%B8%8B%E8%BD%BD.png)
+
+
+
+
+
+![下载](截图.gif)
+
+
+
+
 
 ## Getting Started
 
